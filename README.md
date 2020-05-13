@@ -13,23 +13,23 @@ JDK 1.8
 
 该示例主要供对接方在集成契约锁混合云服务时作为参考，提供三种集成方常见签署场景，对接方可根据自身业务场景以及接口文档清单，适当调整部分调用顺序。
 
-## 对接方企业单方签署
+### 对接方企业单方签署
 
-**场景：**仅对接方自身参数签署，即合同仅需要对接方参与签署，例如收据、公司内部报文等。
+**场景：**  仅对接方自身参数签署，即合同仅需要对接方参与签署，例如收据、公司内部报文等。
 
-**详情见：**[SinglePlatformSignSample](https://github.com/qiyuesuo/hybrid-demo/blob/master/src/main/java/com/qiyuesuo/hybrid/sample/SinglePlatformSignSample.java)
+**详情见：**  [SinglePlatformSignSample](https://github.com/qiyuesuo/hybrid-demo/blob/master/src/main/java/com/qiyuesuo/hybrid/sample/SinglePlatformSignSample.java)
 
-## 对接方企业与公司接收方签署
+### 对接方企业与公司接收方签署
 
-**场景：**对接方公司与接收方公司双方参与合同签署，例如：销售合同等。
+**场景：**  对接方公司与接收方公司双方参与合同签署，例如：销售合同等。
 
-**详情见：**[PlatformAndCompanySignSample](https://github.com/qiyuesuo/hybrid-demo/blob/master/src/main/java/com/qiyuesuo/hybrid/sample/PlatformAndCompanySignSample.java)
+**详情见：**  [PlatformAndCompanySignSample](https://github.com/qiyuesuo/hybrid-demo/blob/master/src/main/java/com/qiyuesuo/hybrid/sample/PlatformAndCompanySignSample.java)
 
-## 对接方企业与个人接收方签署
+### 对接方企业与个人接收方签署
 
-**场景：**对接方公司与个人双方参与合同签署，例如：人事合同等。
+**场景：**  对接方公司与个人双方参与合同签署，例如：人事合同等。
 
-**详情见：**[PlatformAndPersonSignSample](https://github.com/qiyuesuo/hybrid-demo/blob/master/src/main/java/com/qiyuesuo/hybrid/sample/PlatformAndPersonSignSample.java)
+**详情见：**  [PlatformAndPersonSignSample](https://github.com/qiyuesuo/hybrid-demo/blob/master/src/main/java/com/qiyuesuo/hybrid/sample/PlatformAndPersonSignSample.java)
 
 # Guide
 
