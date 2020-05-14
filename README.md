@@ -42,4 +42,4 @@ Notes
 
 扫码关注契约锁公众号,了解契约锁最新动态。
 
-![契约锁公众号](qrcode.png)
+![契约锁公众号](https://github.com/qiyuesuo/hybrid-demo/blob/master/qrcode.png)
